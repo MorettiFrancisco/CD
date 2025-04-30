@@ -1,6 +1,7 @@
-Grupo 2
+# Grupo 2
 
-Lucich Francisco
-Luna Esteban
-Moretti Francisco
-Zubik Tomas
+**Integrantes:**
+- Francisco Lucich
+- Esteban Luna
+- Francisco Moretti
+- Tomás Zubik
