@@ -1,7 +1,10 @@
 pandas
-scikit-learn
-numpy
-matplotlib
+kagglehub
 seaborn
+matplotlib
 nltk
+pymupdf
+transformers
 wordcloud
+langchain-text-splitters
+torch
